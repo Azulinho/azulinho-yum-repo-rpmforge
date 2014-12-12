@@ -7,9 +7,5 @@
 
 
   roles:
-    # configure /etc/resolv.conf
-    #
-    - Azulinho.azulinho-google-dns
-
     - yum-repo-rpmforge
 
