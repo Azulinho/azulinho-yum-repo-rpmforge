@@ -7,5 +7,6 @@
 
 
   roles:
+    - Azulinho.azulinho-google-dns
     - yum-repo-rpmforge
 
